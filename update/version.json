@@ -1,6 +1,16 @@
 {
-  "schema_version": 1,
-  "app_id": "ironwriter.K-EditKit",
-  "latest_version": "1.0.0.0"
+  "versions": [
+    {
+      "version": "1.0.0.0",
+      "enabled": false,
+      "titles": {
+        "한국어": "K-EditKit 1.0.0.0 업데이트 안내",
+        "English": "K-EditKit 1.0.0.0 Update"
+      },
+      "contents": {
+        "한국어": ["K-EditKit을 이용해 주셔서 감사합니다.", "현재 모든 편집 기능을 무료로 이용할 수 있습니다."],
+        "English": ["Thank you for using K-EditKit.", "All editing features are currently free to use."]
+      }
+    }
+  ]
 }
-
